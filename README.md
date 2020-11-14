@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-a-aplicação">A aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-executar-o-projeto">Como executar o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -17,14 +17,14 @@
 </p>
 <br>
 
-<h2> 💻 A aplicação</h2>
+## 💻 A aplicação
 <p>A aplicação desenvolvida é muito simples e objetiva, permitindo que o usuário pesquise por um repositório do github e tenha acesso as principais informações, como
   a quantidade de estrelas, forks e issues.
   Para ter acesso à essas informações foi necessário utilizar a api do Github.
 </p>
 <br>
 
-<h2> 🚀 Tecnologias </h2>
+## 🚀 Tecnologias 
 <p>
   Este projeto foi desenvolvido utilizando:
   
@@ -33,7 +33,7 @@
 </p>
 <br>
 
-<h2> 🚀 Como executar o projeto ? </h2>
+## 🚀 Como executar o projeto
 
 <h4> Pré-requisitos </h4>
 Como este projeto não utiliza o NodeJS, você precisará ter apenas o gerenciador de pacotes yarn ou npm instalado, para rodar o ReactJS.
@@ -59,7 +59,7 @@ $ yarn start
 ```
 <br>
 
-<h2> 🤔 Como contribuir </h2>
+## 🤔 Como contribuir 
 
 - Faça um fork desse repositório;
 - Cria uma branch com a sua feature: `git checkout -b minha-feature`;
@@ -70,7 +70,7 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 
 <br>
 
-<h2> :memo: Licença </h2>
+## :memo: Licença 
 
 Esse projeto está sob a licença [MIT](./LICENSE).
 
